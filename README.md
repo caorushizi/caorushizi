@@ -1,6 +1,6 @@
 ### Hi there, I'm caorushizi 👋
 
-博客：[士子☀️](https://blog.ziying.site)
+博客：[曹儒士子的博客](https://caorushizi.cn)
 
 **Languages and Tools:**  
 
