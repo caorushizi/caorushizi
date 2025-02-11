@@ -1,6 +1,6 @@
 ### Hi there, I'm caorushizi 👋
 
-博客：[曹儒士子的博客](https://caorushizi.cn)
+Blog：[caorushizi's blog](https://caorushizi.cn)
 
 **Languages and Tools:**  
 
@@ -10,5 +10,5 @@
   </a>
 </p>
 
-
-[![caourshizi's github stats](https://github-readme-stats.vercel.app/api?username=caorushizi)](https://github.com/anuraghazra/github-readme-stats)
+[![caourshizi's github stats](https://github-readme-stats.vercel.app/api?username=caorushizi&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caorushizi&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
