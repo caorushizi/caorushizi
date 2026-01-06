@@ -10,5 +10,5 @@ Blog：[caorushizi's blog](https://caorushizi.cn)
   </a>
 </p>
 
-[![caourshizi's github stats](https://github-readme-stats.vercel.app/api?username=caorushizi&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caorushizi&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![caourshizi's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=caorushizi&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caorushizi&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
